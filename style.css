@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    background-color: #01ABCE;
+}
+.container-md{
+    /* background-color: #AFAFAF; */
+    min-height: 60vh;
+}
+#input{
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+#btn{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+#div1{
+    min-height: 30vh;
+    background-color: rgb(207, 207, 207);
+}
+#div2{
+    min-height: 30vh;
+    background-color: rgb(126, 125, 125);
+}
+#div3{
+    min-height: 30vh;
+    background-color: rgb(102, 102, 102);
+}
